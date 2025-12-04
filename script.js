@@ -1,5 +1,5 @@
 console.log("Inizio esecuzione");
-let = new Date();
+let d = new Date();
 console.log(d);
 document.getElementById("saluto").innerHTML = d.getDay();
 
